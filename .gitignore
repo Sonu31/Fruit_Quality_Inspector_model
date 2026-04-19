@@ -1,0 +1,10 @@
+env/
+__pycache__/
+dataset/
+*.pth
+env/
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.dll
